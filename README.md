@@ -1,1 +1,2 @@
-# Guess My Number Game
+# Игра "Угадай число"
+
